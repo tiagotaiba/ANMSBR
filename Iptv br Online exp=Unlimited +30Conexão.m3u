@@ -1,0 +1,1744 @@
+#EXTM3U
+#EXTINF:-1,======ANMSBR LIST==========================
+#EXTINF:-1,TOP TV
+http://sateg.cdnseguro.com/toptv/toptv/playlist.m3u8
+#EXTINF:-1,BBB 18 HD Pay-per-view
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/2039.ts
+#EXTINF:-1,BBB 18 HD - 1
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/2139.ts
+#EXTINF:-1,BBB 18 HD - 2
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/2138.ts
+#EXTINF:-1,BBB MOSAICO
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/2136.ts
+#EXTINF:-1,TV ANHANGUERA FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/834.ts
+#EXTINF:-1,GLOBO SP HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/513.ts
+#EXTINF:-1,GLOBO SP
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1065.ts
+#EXTINF:-1,GLOBO RJ HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/467.ts
+#EXTINF:-1,GLOBO RJ
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1506.ts
+#EXTINF:-1,GLOBO MG HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/466.ts
+#EXTINF:-1,GLOBO VITORIA HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/152.ts
+#EXTINF:-1,GLOBO BRASILIA HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1687.ts
+#EXTINF:-1,GLOBO BRASILIA
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1532.ts
+#EXTINF:-1,GLOBO NORDESTE HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/817.ts
+#EXTINF:-1,TV BAHIA HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/983.ts
+#EXTINF:-1,RBS TV
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1492.ts
+#EXTINF:-1,GLOBO INTERNACIONAL
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1789.ts
+#EXTINF:-1,GLOBO INTERNACIONAL FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/153.ts
+#EXTINF:-1,REDE RECORD HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/478.ts
+#EXTINF:-1,REDE RECORD HD ( OPÇAO 2)
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/937.ts
+#EXTINF:-1,REDE RECORD USA
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/912.ts
+#EXTINF:-1,REDE RECORD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/679.ts
+#EXTINF:-1,SBT HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/411.ts
+#EXTINF:-1,SBT
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/678.ts
+#EXTINF:-1,BAND HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/523.ts
+#EXTINF:-1,BAND
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/959.ts
+#EXTINF:-1,REDE TV HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/414.ts
+#EXTINF:-1,TV CULTURA
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/681.ts
+#EXTINF:-1,FUTURA
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1577.ts
+#EXTINF:-1,Rede Vida
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1578.ts
+#EXTINF:-1,CANAL RURAL
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/761.ts
+#EXTINF:-1,CANAL DO BOI
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1362.ts
+#EXTINF:-1,REDE GOSPEL
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1567.ts
+#EXTINF:-1,CANÇAO NOVA HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1360.ts
+#EXTINF:-1,TV APARECIDA
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/790.ts
+#EXTINF:-1,TV GAZETA HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/789.ts
+#EXTINF:-1,NHK WORLD HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1617.ts
+#EXTINF:-1,FISH TV
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/854.ts
+#EXTINF:-1,NBR
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/763.ts
+#EXTINF:-1,CNT
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1530.ts
+#EXTINF:-1,REDE BRASIL
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/788.ts
+#EXTINF:-1,TV NOVO TEMPO
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/734.ts
+#EXTINF:-1,POLISHOPTV
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1802.ts
+#EXTINF:-1,TV CAMERA
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1801.ts
+#EXTINF:-1,TV JUSTICA
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1800.ts
+#EXTINF:-1,TV SENADO
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1799.ts
+#EXTINF:-1,MTV HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/620.ts
+#EXTINF:-1,MTV
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/891.ts
+#EXTINF:-1,MULTISHOW HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/476.ts
+#EXTINF:-1,MULTISHOW
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/174.ts
+#EXTINF:-1,COMEDY CENTRAL HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1792.ts
+#EXTINF:-1,COMEDY CENTRAL
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/849.ts
+#EXTINF:-1,OFF HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/183.ts
+#EXTINF:-1,VIVA HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/491.ts
+#EXTINF:-1,VIVA
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/243.ts
+#EXTINF:-1,BIS HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/102.ts
+#EXTINF:-1,VH1 HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/676.ts
+#EXTINF:-1,VH1 MEGA HITS
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/735.ts
+#EXTINF:-1,TruTV
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1071.ts
+#EXTINF:-1,WOOHOO HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1361.ts
+#EXTINF:-1,FOOD NETWORK HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1542.ts
+#EXTINF:-1,FOOD NETWORK
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1531.ts
+#EXTINF:-1,Play TV
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1025.ts
+#EXTINF:-1,MUSIC BOX BRASIL
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/762.ts
+#EXTINF:-1,PRIME BOX BRASIL
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/764.ts
+#EXTINF:-1,GLOBOSAT HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/93.ts
+#EXTINF:-1,GLOBOSAT
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1566.ts
+#EXTINF:-1,GNT HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/157.ts
+#EXTINF:-1,GNT
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/829.ts
+#EXTINF:-1,TLC HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/644.ts
+#EXTINF:-1,TLC
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/825.ts
+#EXTINF:-1,E! HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1635.ts
+#EXTINF:-1,E!
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/632.ts
+#EXTINF:-1,BAND SPORTS HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/515.ts
+#EXTINF:-1,BAND SPORTS
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/717.ts
+#EXTINF:-1,SPORTV FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/2091.ts
+#EXTINF:-1,SPORTV HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/2090.ts
+#EXTINF:-1,SPORTV
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/212.ts
+#EXTINF:-1,SPORTV 2 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/2103.ts
+#EXTINF:-1,SPORTV 2 HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/508.ts
+#EXTINF:-1,SPORTV 2
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/213.ts
+#EXTINF:-1,SPORTV 3 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/2157.ts
+#EXTINF:-1,SPORTV 3 HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/511.ts
+#EXTINF:-1,SPORTV 3
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/214.ts
+#EXTINF:-1,FOX SPORTS FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/2101.ts
+#EXTINF:-1,FOX SPORTS HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/464.ts
+#EXTINF:-1,FOX SPORTS
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/695.ts
+#EXTINF:-1,FOX SPORTS 2 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/2102.ts
+#EXTINF:-1,FOX SPORTS 2 HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/465.ts
+#EXTINF:-1,FOX SPORTS 2
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/696.ts
+#EXTINF:-1,EI MAXX FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/2155.ts
+#EXTINF:-1,EI MAXX HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/660.ts
+#EXTINF:-1,EI MAXX
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1069.ts
+#EXTINF:-1,EI MAXX 2 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/2141.ts
+#EXTINF:-1,EI MAXX 2 HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/661.ts
+#EXTINF:-1,EI MAXX 2
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1070.ts
+#EXTINF:-1,ESPN BRASIL HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1109.ts
+#EXTINF:-1,ESPN BRASIL
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1023.ts
+#EXTINF:-1,ESPN HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/521.ts
+#EXTINF:-1,ESPN
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1733.ts
+#EXTINF:-1,ESPN + HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/522.ts
+#EXTINF:-1,ESPN +
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/698.ts
+#EXTINF:-1,COMBATE FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/2094.ts
+#EXTINF:-1,COMBATE HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/451.ts
+#EXTINF:-1,COMBATE
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/114.ts
+#EXTINF:-1,ALL SPORTS BR HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/765.ts
+#EXTINF:-1,PREMIER CLUBES HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/509.ts
+#EXTINF:-1,PREMIER CLUBES
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1090.ts
+#EXTINF:-1,GLOBO NEWS FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/2093.ts
+#EXTINF:-1,GLOBO NEWS HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/663.ts
+#EXTINF:-1,GLOBO NEWS
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1108.ts
+#EXTINF:-1,RECORD NEWS HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1798.ts
+#EXTINF:-1,BAND NEWS
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/726.ts
+#EXTINF:-1,CNN
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/724.ts
+#EXTINF:-1,CARTOON NETWORK HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/449.ts
+#EXTINF:-1,CARTOON NETWORK
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/587.ts
+#EXTINF:-1,NICKELODEN HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1774.ts
+#EXTINF:-1,NICKLODEON
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/477.ts
+#EXTINF:-1,NICK JR
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/506.ts
+#EXTINF:-1,DISNEY CHANNEL HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/494.ts
+#EXTINF:-1,DISNEY XD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/460.ts
+#EXTINF:-1,DISNEY JUNIOR
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/459.ts
+#EXTINF:-1,DISCOVERY KIDS HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/455.ts
+#EXTINF:-1,DISCOVERY KIDS
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1058.ts
+#EXTINF:-1,BOOMERANG
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/448.ts
+#EXTINF:-1,TOONCAST
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/702.ts
+#EXTINF:-1,GLOBINHO HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1811.ts
+#EXTINF:-1,GLOOB HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/156.ts
+#EXTINF:-1,GLOOB
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/823.ts
+#EXTINF:-1,TV RATIMBOOM
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1796.ts
+#EXTINF:-1,NATGEO KIDS HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1773.ts
+#EXTINF:-1,ANIMAL PLANET HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1324.ts
+#EXTINF:-1,ANIMAL PLANET
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/711.ts
+#EXTINF:-1,DISCOVERY CHANNEL HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/516.ts
+#EXTINF:-1,DISCOVERY CHANNEL
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1055.ts
+#EXTINF:-1,DISCOVERY TURBO HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1059.ts
+#EXTINF:-1,DISCOVERY TURBO
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1060.ts
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/736.ts
+#EXTINF:-1,DISCOVERY CIVILIZATION HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1797.ts
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/656.ts
+#EXTINF:-1,DISCOVERY HOME & HEALTH
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1054.ts
+#EXTINF:-1,DISCOVERY THEATER HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/655.ts
+#EXTINF:-1,DISCOVERY WORLD HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/832.ts
+#EXTINF:-1,NATGEO HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/498.ts
+#EXTINF:-1,NATGEO
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1202.ts
+#EXTINF:-1,NATGEO WILD HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/712.ts
+#EXTINF:-1,NATGEO WILD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/787.ts
+#EXTINF:-1,INVESTIGATION DISCOVERY  FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/2154.ts
+#EXTINF:-1,INVESTIGATION DISCOVERY HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/658.ts
+#EXTINF:-1,HISTORY CHANNEL FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/2153.ts
+#EXTINF:-1,HISTORY CHANNEL HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/499.ts
+#EXTINF:-1,HISTORY CHANNEL
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1067.ts
+#EXTINF:-1,H2 HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/470.ts
+#EXTINF:-1,H2
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/714.ts
+#EXTINF:-1,AMC HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1812.ts
+#EXTINF:-1,AMC
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1813.ts
+#EXTINF:-1,AXN HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/447.ts
+#EXTINF:-1,AXN
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1028.ts
+#EXTINF:-1,A&E HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/745.ts
+#EXTINF:-1,A&E
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1529.ts
+#EXTINF:-1,CANAL SONY HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/507.ts
+#EXTINF:-1,CANAL SONY
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/719.ts
+#EXTINF:-1,TCM
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/682.ts
+#EXTINF:-1,TNT SERIES HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1105.ts
+#EXTINF:-1,TNT SERIES
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1046.ts
+#EXTINF:-1,WARNER CHANNEL HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/500.ts
+#EXTINF:-1,WARNER CHANNEL
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1072.ts
+#EXTINF:-1,FOX FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/2152.ts
+#EXTINF:-1,FOX HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/972.ts
+#EXTINF:-1,FOX
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1110.ts
+#EXTINF:-1,FX HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/462.ts
+#EXTINF:-1,FX
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1043.ts
+#EXTINF:-1,FOX LIFE HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/463.ts
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/700.ts
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/929.ts
+#EXTINF:-1,LIFETIME HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/725.ts
+#EXTINF:-1,SYFY HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/480.ts
+#EXTINF:-1,TBS
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/683.ts
+#EXTINF:-1,I-SAT
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/727.ts
+#EXTINF:-1,MEGAPIX FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/2100.ts
+#EXTINF:-1,MEGAPIX HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/475.ts
+#EXTINF:-1,MEGAPIX
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1026.ts
+#EXTINF:-1,MAX HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/501.ts
+#EXTINF:-1,CINEMAX HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/450.ts
+#EXTINF:-1,CINEMAX
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1044.ts
+#EXTINF:-1,SPACE HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/479.ts
+#EXTINF:-1,SPACE
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1042.ts
+#EXTINF:-1,TNT HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/482.ts
+#EXTINF:-1,TNT
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1073.ts
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/709.ts
+#EXTINF:-1,STUDIO UNIVERSAL HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/720.ts
+#EXTINF:-1,CANAL BRASIL HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/708.ts
+#EXTINF:-1,TELECINE PREMIUM FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/2092.ts
+#EXTINF:-1,TELECINE PREMIUM HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/487.ts
+#EXTINF:-1,TELECINE PREMIUM
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1049.ts
+#EXTINF:-1,TELECINE ACTION FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/2099.ts
+#EXTINF:-1,TELECINE ACTION HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/483.ts
+#EXTINF:-1,TELECINE ACTION
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1050.ts
+#EXTINF:-1,TELECINE TOUCH FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/2095.ts
+#EXTINF:-1,TELECINE TOUCH HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/488.ts
+#EXTINF:-1,TELECINE TOUCH
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1057.ts
+#EXTINF:-1,TELECINE PIPOCA FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/2097.ts
+#EXTINF:-1,TELECINE PIPOCA HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/486.ts
+#EXTINF:-1,TELECINE PIPOCA
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/687.ts
+#EXTINF:-1,TELECINE FUN FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/2096.ts
+#EXTINF:-1,TELECINE FUN HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/485.ts
+#EXTINF:-1,TELECINE FUN
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1047.ts
+#EXTINF:-1,TELECINE CULT FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/2098.ts
+#EXTINF:-1,TELECINE CULT HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/484.ts
+#EXTINF:-1,TELECINE CULT
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/685.ts
+#EXTINF:-1,HBO HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/473.ts
+#EXTINF:-1,HBO
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1031.ts
+#EXTINF:-1,HBO 2 HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/690.ts
+#EXTINF:-1,HBO 2
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1030.ts
+#EXTINF:-1,HBO PLUS HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/497.ts
+#EXTINF:-1,HBO PLUS
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1032.ts
+#EXTINF:-1,HBO FAMILY HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/472.ts
+#EXTINF:-1,HBO FAMILY
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/691.ts
+#EXTINF:-1,HBO SIGNATURE HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/474.ts
+#EXTINF:-1,HBO SIGNATURE
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/694.ts
+#EXTINF:-1,MAX
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/728.ts
+#EXTINF:-1,MAX PRIME HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/502.ts
+#EXTINF:-1,MAX PRIME
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/729.ts
+#EXTINF:-1,MAX UP HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/503.ts
+#EXTINF:-1,MAX UP
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/730.ts
+#EXTINF:-1,FOX PREMIUM 1 HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/978.ts
+#EXTINF:-1,FOX PREMIUM 2 HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1310.ts
+#EXTINF:-1,PREMIER - 1
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/645.ts
+#EXTINF:-1,PREMIER - 2
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/646.ts
+#EXTINF:-1,PREMIER - 3
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/647.ts
+#EXTINF:-1,PREMIER - 4
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/648.ts
+#EXTINF:-1,PREMIER - 5
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/649.ts
+#EXTINF:-1,PREMIER - 6
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/650.ts
+#EXTINF:-1,PREMIER - 7
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/651.ts
+#EXTINF:-1,PREMIER - 8
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/652.ts
+#EXTINF:-1,PREMIER - 9
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/653.ts
+#EXTINF:-1,PREMIER - 10
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/654.ts
+#EXTINF:-1,PREMIER 2 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/510.ts
+#EXTINF:-1,PREMIER 2
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/903.ts
+#EXTINF:-1,PREMIER 3 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/543.ts
+#EXTINF:-1,PREMIER 3
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/902.ts
+#EXTINF:-1,PREMIER 4 HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/544.ts
+#EXTINF:-1,PREMIER 5 FULL HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/545.ts
+#EXTINF:-1,PREMIER 5
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/904.ts
+#EXTINF:-1,PREMIER 6 HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/976.ts
+#EXTINF:-1,PREMIER 6
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/905.ts
+#EXTINF:-1,PREMIER 7 HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/977.ts
+#EXTINF:-1,PREMIER 7
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/906.ts
+#EXTINF:-1,PREMIER 8
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/907.ts
+#EXTINF:-1,PREMIER 9
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/908.ts
+#EXTINF:-1,PT: GLOBO PORTUGAL
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/733.ts
+#EXTINF:-1,PT: GLOBO PREMIUM
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1024.ts
+#EXTINF:-1,PT: TV RECORD HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/416.ts
+#EXTINF:-1,PT: FASHION TV HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1455.ts
+#EXTINF:-1,PT: TLC
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1765.ts
+#EXTINF:-1,PT: TVI 24
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1793.ts
+#EXTINF:-1,PT: SUNDANCE HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1392.ts
+#EXTINF:-1,PT: BENFICA TV HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/675.ts
+#EXTINF:-1,PT:  A BOLA TV
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1876.ts
+#EXTINF:-1,PT:  BTV 1
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1877.ts
+#EXTINF:-1,PT:  BTV 1 FHD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1880.ts
+#EXTINF:-1,PT:  EUROSPORT
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1884.ts
+#EXTINF:-1,PT:  EUROSPORT 1 HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1885.ts
+#EXTINF:-1,PT:  EUROSPORT 2
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1886.ts
+#EXTINF:-1,PT:  EUROSPORT NEWS
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1883.ts
+#EXTINF:-1,PT:  FIGHT NETWORK HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1887.ts
+#EXTINF:-1,PT:  MOTORS TV
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1891.ts
+#EXTINF:-1,PT:  RTP 2
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1823.ts
+#EXTINF:-1,PT:  RTP 2 HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1825.ts
+#EXTINF:-1,PT:  RTP 3
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1850.ts
+#EXTINF:-1,PT:  SIC HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1829.ts
+#EXTINF:-1,PT:  SIC RADICAL
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1868.ts
+#EXTINF:-1,PT: A&E
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1945.ts
+#EXTINF:-1,PT: AMC
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1927.ts
+#EXTINF:-1,PT: AMC HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1926.ts
+#EXTINF:-1,PT: AR TV
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1834.ts
+#EXTINF:-1,PT: AXN
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1946.ts
+#EXTINF:-1,PT: AXN BLACK HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1948.ts
+#EXTINF:-1,PT: AXN HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1947.ts
+#EXTINF:-1,PT: AXN WHITE
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1949.ts
+#EXTINF:-1,PT: AXN WHITE HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1950.ts
+#EXTINF:-1,PT: BABY FIRST
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1963.ts
+#EXTINF:-1,PT: BBC WORLD NEWS
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1835.ts
+#EXTINF:-1,PT: BLOOMBERG
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1836.ts
+#EXTINF:-1,PT: BTV 1 FHD (2)
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1881.ts
+#EXTINF:-1,PT: BTV 1 FHD (3)
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1882.ts
+#EXTINF:-1,PT: BTV 1 HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1879.ts
+#EXTINF:-1,PT: BTV 1 HQ
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1878.ts
+#EXTINF:-1,PT: CACA E PESCA
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1925.ts
+#EXTINF:-1,PT: CAMARA 1
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1861.ts
+#EXTINF:-1,PT: CANAL Q
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1856.ts
+#EXTINF:-1,PT: CHELSEA TV HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1924.ts
+#EXTINF:-1,PT: CINEMUNDO
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1928.ts
+#EXTINF:-1,PT: CMTV
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1837.ts
+#EXTINF:-1,PT: CNBC EUROPE
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1838.ts
+#EXTINF:-1,PT: CNN
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1839.ts
+#EXTINF:-1,PT: DW
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1844.ts
+#EXTINF:-1,PT: EURONEWS
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1840.ts
+#EXTINF:-1,PT: FOX
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1951.ts
+#EXTINF:-1,PT: FOX COMEDY
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1954.ts
+#EXTINF:-1,PT: FOX COMEDY HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1953.ts
+#EXTINF:-1,PT: FOX CRIME
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1955.ts
+#EXTINF:-1,PT: FOX CRIME HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1956.ts
+#EXTINF:-1,PT: FOX HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1952.ts
+#EXTINF:-1,PT: FOX LIFE
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1957.ts
+#EXTINF:-1,PT: FOX LIFE HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1958.ts
+#EXTINF:-1,PT: FOX MOVIES
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1930.ts
+#EXTINF:-1,PT: FOX MOVIES HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1929.ts
+#EXTINF:-1,PT: FOX NEWS
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1841.ts
+#EXTINF:-1,PT: FRANCE 24
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1842.ts
+#EXTINF:-1,PT: FRANCE 24 FR
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1843.ts
+#EXTINF:-1,PT: FUEL TV
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1889.ts
+#EXTINF:-1,PT: FULL TV HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1888.ts
+#EXTINF:-1,PT: GLOBO NEWS
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1845.ts
+#EXTINF:-1,PT: HOLLYWOOD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1931.ts
+#EXTINF:-1,PT: HOLLYWOOD HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1932.ts
+#EXTINF:-1,PT: I24 NEWS
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1846.ts
+#EXTINF:-1,PT: KBS WORLD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1847.ts
+#EXTINF:-1,PT: KOMBAT SPORT
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1920.ts
+#EXTINF:-1,PT: MOTORVISION HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1892.ts
+#EXTINF:-1,PT: NBA HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1890.ts
+#EXTINF:-1,PT: OUTDOOR CHANNEL HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1893.ts
+#EXTINF:-1,PT: PFC
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1894.ts
+#EXTINF:-1,PT: PORTO CANAL
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1848.ts
+#EXTINF:-1,PT: PORTO CANAL HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1849.ts
+#EXTINF:-1,PT: REAL MADRID TV
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1895.ts
+#EXTINF:-1,PT: RECORD NEWS
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1854.ts
+#EXTINF:-1,PT: RTP 1
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1822.ts
+#EXTINF:-1,PT: RTP 1 HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1821.ts
+#EXTINF:-1,PT: RTP 1 HQ
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1820.ts
+#EXTINF:-1,PT: RTP 2 FHD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1826.ts
+#EXTINF:-1,PT: RTP 2 HQ
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1824.ts
+#EXTINF:-1,PT: RTP ACORES
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1873.ts
+#EXTINF:-1,PT: RTP MADEIRA
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1874.ts
+#EXTINF:-1,PT: RTP MEMORIA
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1875.ts
+#EXTINF:-1,PT: SIC
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1827.ts
+#EXTINF:-1,PT: SIC CARAS
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1871.ts
+#EXTINF:-1,PT: SIC CARAS HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1872.ts
+#EXTINF:-1,PT: SIC FHD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1830.ts
+#EXTINF:-1,PT: SIC HQ
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1828.ts
+#EXTINF:-1,PT: SIC INTERNACIONAL
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1866.ts
+#EXTINF:-1,PT: SIC MULHER
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1870.ts
+#EXTINF:-1,PT: SIC MULHER HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1869.ts
+#EXTINF:-1,PT: SIC NOTICIAS
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1851.ts
+#EXTINF:-1,PT: SIC NOTICIAS HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1853.ts
+#EXTINF:-1,PT: SIC NOTICIAS HQ
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1852.ts
+#EXTINF:-1,PT: SIC RADICAL HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1867.ts
+#EXTINF:-1,PT: SKY NEWS
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1855.ts
+#EXTINF:-1,PT: SPORT TV
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1898.ts
+#EXTINF:-1,PT: SPORT TV +
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1896.ts
+#EXTINF:-1,PT: SPORT TV + FHD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1897.ts
+#EXTINF:-1,PT: SPORT TV 2
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1903.ts
+#EXTINF:-1,PT: SPORT TV 2 FHD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1906.ts
+#EXTINF:-1,PT: SPORT TV 2 HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1905.ts
+#EXTINF:-1,PT: SPORT TV 2 HQ
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1904.ts
+#EXTINF:-1,PT: SPORT TV 3
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1907.ts
+#EXTINF:-1,PT: SPORT TV 3 FHD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1910.ts
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1909.ts
+#EXTINF:-1,PT: SPORT TV 3 HQ
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1908.ts
+#EXTINF:-1,PT: SPORT TV 4
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1911.ts
+#EXTINF:-1,PT: SPORT TV 4 HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1913.ts
+#EXTINF:-1,PT: SPORT TV 4 HQ
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1912.ts
+#EXTINF:-1,PT: SPORT TV 5
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1915.ts
+#EXTINF:-1,PT: SPORT TV 5 FHD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1918.ts
+#EXTINF:-1,PT: SPORT TV 5 HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1917.ts
+#EXTINF:-1,PT: SPORT TV 5 HQ
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1916.ts
+#EXTINF:-1,PT: SPORT TV FHD (2)
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1902.ts
+#EXTINF:-1,PT: SPORT TV HQ
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1899.ts
+#EXTINF:-1,PT: SPORTING TV
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1921.ts
+#EXTINF:-1,PT: SPORTING TV HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1919.ts
+#EXTINF:-1,PT: SPORTTV 4 FHD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1914.ts
+#EXTINF:-1,PT: SPORTTV FHD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1901.ts
+#EXTINF:-1,PT: SPORTTV HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1900.ts
+#EXTINF:-1,PT: SYFY
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1960.ts
+#EXTINF:-1,PT: SYFY HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1959.ts
+#EXTINF:-1,PT: TOROS TV
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1923.ts
+#EXTINF:-1,PT: TOROS TV HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1922.ts
+#EXTINF:-1,PT: TV CINE
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1933.ts
+#EXTINF:-1,PT: TV CINE 2
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1936.ts
+#EXTINF:-1,PT: TV CINE 2 HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1938.ts
+#EXTINF:-1,PT: TV CINE 2 HQ
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1937.ts
+#EXTINF:-1,PT: TV CINE 3
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1939.ts
+#EXTINF:-1,PT: TV CINE 3 HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1941.ts
+#EXTINF:-1,PT: TV CINE 3 HQ
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1940.ts
+#EXTINF:-1,PT: TV CINE 4
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1943.ts
+#EXTINF:-1,PT: TV CINE 4 HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1944.ts
+#EXTINF:-1,PT: TV CINE 4 HQ
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1942.ts
+#EXTINF:-1,PT: TV CINE HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1935.ts
+#EXTINF:-1,PT: TV CINE HQ
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1934.ts
+#EXTINF:-1,PT: TV SERIES
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1961.ts
+#EXTINF:-1,PT: TV SERIES HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1962.ts
+#EXTINF:-1,PT: TVI FHD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1833.ts
+#EXTINF:-1,PT: TVI FICCAO
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1857.ts
+#EXTINF:-1,PT: TVI FICÇÃO HQ
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1858.ts
+#EXTINF:-1,PT: TVI HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1832.ts
+#EXTINF:-1,PT: TVI HQ
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1831.ts
+#EXTINF:-1,PT: TVI MOSAICOS
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1860.ts
+#EXTINF:-1,PT: TVI REALITY
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1859.ts
+#EXTINF:-1,PT: TVI REALITY CAM1
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1862.ts
+#EXTINF:-1,PT: TVI REALITY CAM2
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1863.ts
+#EXTINF:-1,PT: TVI REALITY CAM3
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1864.ts
+#EXTINF:-1,PT: TVI REALITY CAM4
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1865.ts
+#EXTINF:-1,USA: ABC EAST HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1715.ts
+#EXTINF:-1,ABC HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/990.ts
+#EXTINF:-1,NBC - USA
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/988.ts
+#EXTINF:-1,MSNBC HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/989.ts
+#EXTINF:-1,USA: COMEDY CENTRAL HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1716.ts
+#EXTINF:-1,USA: FOX SPORTS 1 HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1708.ts
+#EXTINF:-1,USA: FOX SPORTS 2 HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1709.ts
+#EXTINF:-1,USA: HBO 2 HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1710.ts
+#EXTINF:-1,USA: HBO COMEDY HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1711.ts
+#EXTINF:-1,USA: HBO FAMILY HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1712.ts
+#EXTINF:-1,USA: HBO SIGNATURE HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1713.ts
+#EXTINF:-1,USA: HBO ZONE HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1714.ts
+#EXTINF:-1,USA: NICKTOONS HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1720.ts
+#EXTINF:-1,USA: SYFY HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1718.ts
+#EXTINF:-1,USA: TLC HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1717.ts
+#EXTINF:-1,USA: TRUTV HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1719.ts
+#EXTINF:-1,USA: FOX NEWS HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/998.ts
+#EXTINF:-1,USA: SEC NETWORK
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1367.ts
+#EXTINF:-1,USA: TBS HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1366.ts
+#EXTINF:-1,CNBC - USA
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/992.ts
+#EXTINF:-1,USA: FOX HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/993.ts
+#EXTINF:-1,USA: FREEFORM CHANNEL
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1689.ts
+#EXTINF:-1,CBSN HD - USA
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/991.ts
+#EXTINF:-1,USA: CW HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/994.ts
+#EXTINF:-1,USA: CNN HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1001.ts
+#EXTINF:-1,USA: DIY NETWORK
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1359.ts
+#EXTINF:-1,USA: SPIKE HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1358.ts
+#EXTINF:-1,USA: BRAVO HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1363.ts
+#EXTINF:-1,USA: FOOD NETWORK HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1004.ts
+#EXTINF:-1,USA: HGTV HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1357.ts
+#EXTINF:-1,USA: NATIONAL GEOGRAPHIC
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1005.ts
+#EXTINF:-1,USA: ANIMAL PLANET HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1251.ts
+#EXTINF:-1,USA: TNT HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1006.ts
+#EXTINF:-1,USA: FX HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1003.ts
+#EXTINF:-1,USA: AMC HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1275.ts
+#EXTINF:-1,USA: A&E HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1273.ts
+#EXTINF:-1,USA: HBO
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/997.ts
+#EXTINF:-1,USA: CINEMAX ACTION HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1012.ts
+#EXTINF:-1,USA: CINEMAX MOREMAX
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1274.ts
+#EXTINF:-1,USA: BEIN SPORTS HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1431.ts
+#EXTINF:-1,USA: ESPN HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1253.ts
+#EXTINF:-1,USA: FIGHT SPORT
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1013.ts
+#EXTINF:-1,USA: NFL NETWORK HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1009.ts
+#EXTINF:-1,USA: NHL NETWORK HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1008.ts
+#EXTINF:-1,USA: NBA TV HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1007.ts
+#EXTINF:-1,USA: BOOMERANG
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1261.ts
+#EXTINF:-1,USA: CARTOON NETWORK HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1000.ts
+#EXTINF:-1,USA: NICKELODEN HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1011.ts
+#EXTINF:-1,USA: DISCOVERY CHANNEL HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1015.ts
+#EXTINF:-1,USA: H2 HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1016.ts
+#EXTINF:-1,USA: HISTORY HD
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1014.ts
+#EXTINF:-1,USA: VH1 CLASSIC
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1262.ts
+#EXTINF:-1,TSN 3* HD - CA
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1255.ts
+#EXTINF:-1,TSN 2 HD - CA
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1256.ts
+#EXTINF:-1,TSN HD - CA
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1260.ts
+#EXTINF:-1,SPORTNET HD - CA
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1257.ts
+#EXTINF:-1,UNIMAS
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1323.ts
+#EXTINF:-1,### ITALIA  CHANNELL ###
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1272.ts
+#EXTINF:-1,RAI HD - IT
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1263.ts
+#EXTINF:-1,RAI 2 HD - IT
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1264.ts
+#EXTINF:-1,RAI 3 HD - IT
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1265.ts
+#EXTINF:-1,RAI 4 HD - IT
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1266.ts
+#EXTINF:-1,RAI 5 HD - IT
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1267.ts
+#EXTINF:-1,RAI MOVIE - IT
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1268.ts
+#EXTINF:-1,SKY TG24 - IT
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1270.ts
+#EXTINF:-1,MEDIASET - IT
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1269.ts
+#EXTINF:-1,### RADIOS ###
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1134.ts
+#EXTINF:-1,RADIO Transamerica FM
+http://transamerica.crossradio.com.br:9114/live.mp3
+#EXTINF:-1,RADIO Mania FM
+http://radio.servercsi.com.br:8595/;
+#EXTINF:-1,RADIO Jovem Pan FM
+http://live.webradio.upx.net.br:8112/;
+#EXTINF:-1,RADIO Liberdade FM
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1121.ts
+#EXTINF:-1,RADIO 104 FM
+http://noasrv.caster.fm:10127/stream
+#EXTINF:-1,RADIO CaiÃ§ara FM-AM
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1119.ts
+#EXTINF:-1,RADIO CapÃ£o FM
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1118.ts
+#EXTINF:-1,RADIO Coca Cola FM
+http://ic.imusicaradios.com.br:8000/brasil.stream.http?url=tunein
+#EXTINF:-1,RADIO Continental FM
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1120.ts
+#EXTINF:-1,RADIO Eldorado FM
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1123.ts
+#EXTINF:-1,RADIO FM Premium
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1114.ts
+#EXTINF:-1,RADIO Funk Brasil
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1125.ts
+#EXTINF:-1,RADIO Funk NeurÃ³tico
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1127.ts
+#EXTINF:-1,RADIO Grenal FM
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1116.ts
+#EXTINF:-1,RADIO ImbÃ© FM
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1111.ts
+#EXTINF:-1,RADIO Mix FM
+http://mixaac.crossradio.com.br:1100/live
+#EXTINF:-1,RADIO Pampa FM
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1122.ts
+#EXTINF:-1,RADIO Praia FM
+http://noasrv.caster.fm:10132/stream
+#EXTINF:-1,RADIO Xangri-lÃ¡ FM
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1113.ts
+#EXTINF:-1,RADIO Princesa FM
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1112.ts
+#EXTINF:-1,RADIO TramandaÃ­ FM
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/1115.ts
+#EXTINF:-1,A Batalha de Riddick
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2119.mp4
+#EXTINF:-1,Comboio Furioso
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2151.mp4
+#EXTINF:-1,Harry Potter e a Câmara Secreta
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2112.mp4
+#EXTINF:-1,Harry Potter e a Ordem da Fenix
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2115.mp4
+#EXTINF:-1,Harry Potter e a Pedra Filosofal
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2111.mp4
+#EXTINF:-1,Harry Potter e as Reliquias Da Morte Parte 1
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2117.mp4
+#EXTINF:-1,Harry Potter e as Relíquias da Morte Parte 2
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2118.mp4
+#EXTINF:-1,Harry Potter e o Cálice de Fogo
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2114.mp4
+#EXTINF:-1,Harry Potter e o Enigma do Príncipe
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2116.mp4
+#EXTINF:-1,Harry Potter e o Prisioneiro de Azkaban
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2113.mp4
+#EXTINF:-1,Home Invasion
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2146.mp4
+#EXTINF:-1,Jumper
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2124.mp4
+#EXTINF:-1,Marshall Igualdade e Justiça
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2150.mp4
+#EXTINF:-1,Mary e Max Uma Amizade Diferente
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2149.mp4
+#EXTINF:-1,Me Chame pelo Seu Nome
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2145.mp4
+#EXTINF:-1,Rastros de Um Sequestro
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2148.mp4
+#EXTINF:-1,Roman.J.Israel.Esq
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2142.mp4
+#EXTINF:-1,Self Mortal
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2147.mp4
+#EXTINF:-1,Verônica 2018
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2144.mp4
+#EXTINF:-1,Viva - A Vida é uma Festa
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2143.mp4
+#EXTINF:-1,Assalto ao Banco Central
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2120.mp4
+#EXTINF:-1,Eu Sou a Lenda
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2121.mp4
+#EXTINF:-1,Fullmetal Alchemist
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2122.mp4
+#EXTINF:-1,Hacker - Todo Crime Tem um Início
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2123.mp4
+#EXTINF:-1,Liga da Justiça
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2125.mp4
+#EXTINF:-1,Max 2 - Um Agente Animal
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2126.mp4
+#EXTINF:-1,Quarentena
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2128.mp4
+#EXTINF:-1,Quarentena 2
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2129.mp4
+#EXTINF:-1,Thor - Ragnarok
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2127.mp4
+#EXTINF:-1,A Comedia Divina
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2065.mp4
+#EXTINF:-1,A Espada do Imortal
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2066.mp4
+#EXTINF:-1,A Guerra dos sexos
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2067.mp4
+#EXTINF:-1,A Incrivel Aventura de Rick Baker
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2068.mp4
+#EXTINF:-1,A Menina indigo
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2069.mp4
+#EXTINF:-1,Até que o Casamento nos Separe
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2070.mp4
+#EXTINF:-1,Bye Bye jaqueline
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2071.mp4
+#EXTINF:-1,Capitão América 2: O Soldado Invernal
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2041.mp4
+#EXTINF:-1,Capitão América: O Primeiro Vingador
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2040.mp4
+#EXTINF:-1,Depois Daquela Montanha
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2072.mp4
+#EXTINF:-1,Doutor Estranho
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2042.mp4
+#EXTINF:-1,Eu Compartilho Eu Gosto Eu Sigo
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2073.mp4
+#EXTINF:-1,Futil e Inutil
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2074.mp4
+#EXTINF:-1,Guardiões da Galáxia
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2043.mp4
+#EXTINF:-1,Homem-Formiga
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2044.mp4
+#EXTINF:-1,Jogada Divina
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2075.mp4
+#EXTINF:-1,Mark Felt O Homem que Derrubou a Casa Branca
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2076.mp4
+#EXTINF:-1,Redemoinho
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2077.mp4
+#EXTINF:-1,Tempestade Planeta em Furia
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2078.mp4
+#EXTINF:-1,Totem
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2079.mp4
+#EXTINF:-1,Uma Razao para Recomecar
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2080.mp4
+#EXTINF:-1,Zona Fria
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2081.mp4
+#EXTINF:-1,2:22 - Encontro Marcado
+http://185.22.173.118/new2/2.22.Encontro.Marcado.2017.720p.BluRay.5.1.mkv
+#EXTINF:-1,Além da Morte
+http://185.22.173.118/new2/Alem.da.Morte2017.720p.BluRay.x264.DUBLADO.mp4
+#EXTINF:-1,Amityville O Despertar (2017)
+http://185.22.173.118/new2/Amityville.O.Despertar.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mkv.mp4
+#EXTINF:-1,Blade Runner 2049
+http://185.22.173.118/new2/Blade.Runner.2049.720p.WEB-DL.x264.mp4
+#EXTINF:-1,Como se Tornar um Conquistador
+http://185.22.173.118/new2/Como.se.Tornar.um.Conquistador.2017.mp4
+#EXTINF:-1,De Volta Para Casa
+http://185.22.173.118/new2/De.Volta.Para.Casa.2017.720p.BluRay.6CH.x264.DUAL-WWW.BLUDV.COM.mkv
+#EXTINF:-1,Deserto
+http://185.22.173.118/new2/Deserto.2018.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4
+#EXTINF:-1,Don't Hang Up
+http://185.22.173.118/new2/Nao.Desligue.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4
+#EXTINF:-1,Dunkirk
+http://185.22.173.118/new2/Dunkirk.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4
+#EXTINF:-1,Esta é a Sua Morte
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1995.mp4
+#EXTINF:-1,Love Beats Rhymes
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1996.mp4
+#EXTINF:-1,O Digno
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1998.mp4
+#EXTINF:-1,O Fim Do Dia
+http://185.22.173.118/new2/O.Fim.Do.Dia.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4
+#EXTINF:-1,O Sequestro
+http://185.22.173.118/new2/O.Sequestro.2017.720p.BluRay.x264.DUblado-WWW.BLUDV.COM.mp4
+#EXTINF:-1,Pele O Nascimento de uma Lenda
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2001.mp4
+#EXTINF:-1,Sam Was Here
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1988.mp4
+#EXTINF:-1,Una
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2002.mp4
+#EXTINF:-1,Assassinos Múltiplos
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1975.mp4
+#EXTINF:-1,Bem A Tempo para o Natal
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1976.mp4
+#EXTINF:-1,Bright
+http://185.22.173.118/new/Bright.mp4
+#EXTINF:-1,Caçada Brutal
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1978.mp4
+#EXTINF:-1,Despedida em Grande Estilo
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1979.mp4
+#EXTINF:-1,Dia de Trabalho Mortal
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1980.mp4
+#EXTINF:-1,killer app
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1974.mp4
+#EXTINF:-1,O Assalto
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1981.mp4
+#EXTINF:-1,Pokémon O Filme Eu Escolho Você!
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1982.mp4
+#EXTINF:-1,Troca Fatal
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1983.mp4
+#EXTINF:-1,A Transfiguração
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1964.mp4
+#EXTINF:-1,Alem da Vida
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1965.mp4
+#EXTINF:-1,Alibi.com
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1966.mp4
+#EXTINF:-1,Andorinhas e Amazonas
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1967.mp4
+#EXTINF:-1,Cartao de Natal.
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1968.mp4
+#EXTINF:-1,Como Se Tornaro Pior Aluno da Escola
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1969.mp4
+#EXTINF:-1,It A Coisa
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1970.mp4
+#EXTINF:-1,Kingsman O circulo Dourado
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1971.mp4
+#EXTINF:-1,Resposta Armada
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1972.mp4
+#EXTINF:-1,Emoji O Filme (2017)
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1818.mp4
+#EXTINF:-1,Esta é a Sua Morte O Show (2017)
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1817.mp4
+#EXTINF:-1,Policia Federal a Lei e Para Todos (2017)
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1816.mp4
+#EXTINF:-1,De Canção em Canção (2017)
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1804.mp4
+#EXTINF:-1,Dupla Explosiva (2017)
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1805.mp4
+#EXTINF:-1,Loucos e Perigosos (2017)
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1808.mp4
+#EXTINF:-1,Meu Amigo Dragão (2016)
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1809.mp4
+#EXTINF:-1,Olhos Famintos 3 (2017)
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1807.mp4
+#EXTINF:-1,Sem Perdão (2017)
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1810.mp4
+#EXTINF:-1,Valerian e a Cidade dos Mil Planetas (2017)
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1806.mp4
+#EXTINF:-1,Amityville O Despertar
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1754.mp4
+#EXTINF:-1,Animais Fantásticos e Onde Habitam (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1746.mp4
+#EXTINF:-1,A Morte Te Dá Parabéns (2017)
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1783.mp4
+#EXTINF:-1,Ataque a Bushwick
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1776.mp4
+#EXTINF:-1,Atômica – Ameaça Oculta (2017)
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1784.mp4
+#EXTINF:-1,Bushwick (2017)
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1785.mp4
+#EXTINF:-1,Carros 3 (2017)
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1782.mp4
+#EXTINF:-1,O Maior Amor do Mundo
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1777.mp4
+#EXTINF:-1,Olhos Famintos (2001)
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1786.mp4
+#EXTINF:-1,Olhos Famintos 2 (2003)
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1787.mp4
+#EXTINF:-1,Onde Esta o Dinheiro?
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1778.mp4
+#EXTINF:-1,Operação Anthropoid
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1775.mp4
+#EXTINF:-1,Operação Avalanche
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1788.mp4
+#EXTINF:-1,The Guardian Brothers
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1779.mp4
+#EXTINF:-1,Vovô Disfarçado
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1780.mp4
+#EXTINF:-1,Wheelman
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1781.mp4
+#EXTINF:-1,Ao Cair da Noite
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1755.mp4
+#EXTINF:-1,Coleção Bob Zoom
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1756.mp4
+#EXTINF:-1,Deixados Para Tras A Nova Geracao (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1762.mp4
+#EXTINF:-1,Dora - Salva a terra dos contos de fada
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1757.mp4
+#EXTINF:-1,Em Ritmo de Fuga (2017) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1763.mp4
+#EXTINF:-1,Esquentando a Relação (2012) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1747.mp4
+#EXTINF:-1,Homens de Coragem (2016) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1748.mp4
+#EXTINF:-1,Impulso De Vingança
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1759.mp4
+#EXTINF:-1,Jacarelvis e Amigos Vol 1
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1760.mp4
+#EXTINF:-1,Jacarelvis e Amigos Vol 2
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1761.mp4
+#EXTINF:-1,Jogando Com Prazer (2009) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1750.mp4
+#EXTINF:-1,Loucos Por Dinheiros
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1751.mp4
+#EXTINF:-1,Monster Trucks (2017) [1080p]
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1752.mp4
+#EXTINF:-1,Nerve - Um Jogo Sem Regras (2016) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1753.mp4
+#EXTINF:-1,Planeta dos Macacos A Guerra
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1758.mp4
+#EXTINF:-1,7 Desejos (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1743.mp4
+#EXTINF:-1,A Baba (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1734.mp4
+#EXTINF:-1,Annabelle 2 - A Criação do Mal (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1735.mp4
+#EXTINF:-1,Ficção Científica Volume 1 - A Filha de Osiris (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1744.mp4
+#EXTINF:-1,O Culto de Chucky (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1745.mp4
+#EXTINF:-1,O Dono da Festa (2002) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1737.mp4
+#EXTINF:-1,O Dono da Festa 2 (2006) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1738.mp4
+#EXTINF:-1,O Dono da Festa 3 (2009) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1739.mp4
+#EXTINF:-1,Os Meyerowitz - Família Nao se Escolhe (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1740.mp4
+#EXTINF:-1,Palhaços Infernais (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1742.mp4
+#EXTINF:-1,Uma Família de Dois (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1736.mp4
+#EXTINF:-1,Vencendo o Passado (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1741.mp4
+#EXTINF:-1,A Casa Caiu - Um Cassino na Vizinhança (2017) 720p
+http://185.22.173.118/V2/A.Casa.Caiu.Um.Cassino.na.Vizinhan%c3%a7a.2017.720p.BluRay.6CH.x264.DUBLADO-WWW.BLUDV.COM.mp4
+#EXTINF:-1,Homem-Aranha De Volta ao Lar (2017)
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1723.mp4
+#EXTINF:-1,Jogo Perigoso (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1724.mp4
+#EXTINF:-1,Nossas Noites (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1727.mp4
+#EXTINF:-1,O Livro de Eli (2010) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1726.mp4
+#EXTINF:-1,Os Dez Mandamentos O Filme (2016) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1722.mp4
+#EXTINF:-1,Ouro e Cobiça (2017) 720p
+http://185.22.173.118/V2/Ouro.e.Cobi%c3%a7a.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4
+#EXTINF:-1,Um Lobo em Pele de Cordeiro (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1728.mp4
+#EXTINF:-1,Coracao Valente (1995) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1729.mp4
+#EXTINF:-1,Berlin Syndrome (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1702.mp4
+#EXTINF:-1,Meu Malvado Favorito (2010) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1704.mp4
+#EXTINF:-1,Meu Malvado Favorito 2 (2013) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1705.mp4
+#EXTINF:-1,Meu Malvado Favorito 3 (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1706.mp4
+#EXTINF:-1,O Preço da Liberdade (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1707.mp4
+#EXTINF:-1,Sing Quem Canta Seus Males Espanta (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1703.mp4
+#EXTINF:-1,A Múmia (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1700.mp4
+#EXTINF:-1,Cem Anos de Perdão (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1698.mp4
+#EXTINF:-1,Certas Mulheres (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1696.mp4
+#EXTINF:-1,Primeiro Mataram o Meu Pai (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1695.mp4
+#EXTINF:-1,Rei Arthur A Lenda da Espada (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1699.mp4
+#EXTINF:-1,Transformers - A Vingança dos Derrotados (2009) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1690.mp4
+#EXTINF:-1,A Torre Negra (2017)
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1677.mp4
+#EXTINF:-1,A Ultima Fronteira (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1670.mp4
+#EXTINF:-1,Ate o Fundo (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1669.mp4
+#EXTINF:-1,Cloverfield (2008) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1668.mp4
+#EXTINF:-1,Minha Prima Raquel (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1681.mp4
+#EXTINF:-1,O Último Vice Rei (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1676.mp4
+#EXTINF:-1,Os Meninos que Enganavam Nazistas (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1675.mp4
+#EXTINF:-1,Os Piores Anos da minha Vida (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1678.mp4
+#EXTINF:-1,Ouija 3 e o jogo continua (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1680.mp4
+#EXTINF:-1,Punhos de Sangue (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1679.mp4
+#EXTINF:-1,Missão em Marte (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1655.mp4
+#EXTINF:-1,O Homen Da Meia Noite (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1647.mp4
+#EXTINF:-1,Bikini Car Wash (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1643.mp4
+#EXTINF:-1,O Afogamento (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1640.mp4
+#EXTINF:-1,O Círculo (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1638.mp4
+#EXTINF:-1,O Instituto (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1644.mp4
+#EXTINF:-1,Offline : Sem Bônus nessa Vida (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1637.mp4
+#EXTINF:-1,Um Homem de Família (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1641.mp4
+#EXTINF:-1,Encontro Selvagem (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1622.mp4
+#EXTINF:-1,A Família Addams (1991) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1657.mp4
+#EXTINF:-1,A Ilha dos Mortos (2010) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1659.mp4
+#EXTINF:-1,A Lente do Amor (1997] 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1656.mp4
+#EXTINF:-1,A Maquina do Tempo (2002) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1658.mp4
+#EXTINF:-1,Anastasia (1997) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1660.mp4
+#EXTINF:-1,Bandidas (2006)  720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1661.mp4
+#EXTINF:-1,Doce Lar (2002) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1662.mp4
+#EXTINF:-1,Jamaica Abaixo De Zero (1993) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1663.mp4
+#EXTINF:-1,Karate Kid (2010) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1664.mp4
+#EXTINF:-1,O Terno de Dois Bilhões de Dólares (2002) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1665.mp4
+#EXTINF:-1,À Procura Da Felicidade (2006) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1645.mp4
+#EXTINF:-1,Centopeia Humana (2009) 720p Legendado
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1654.mp4
+#EXTINF:-1,Hellraiser - Renascido do Inferno (1987) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1651.mp4
+#EXTINF:-1,Hellraiser 2 - Renascido das Trevas (1988) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1652.mp4
+#EXTINF:-1,Hellraiser 3 - Inferno na Terra (1992) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1653.mp4
+#EXTINF:-1,Inimigos Públicos (2009) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1650.mp4
+#EXTINF:-1,Meu Vizinho Mafioso (2000) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1649.mp4
+#EXTINF:-1,Mudanca De habito (1992) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1648.mp4
+#EXTINF:-1,Os Jovens Pistoleiros (1988) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1646.mp4
+#EXTINF:-1,Olhos Azuis: Um Duelo na Fronteira (2009) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1636.mp4
+#EXTINF:-1,Pequeno Demônio (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1639.mp4
+#EXTINF:-1,A Vila (2004) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1619.mp4
+#EXTINF:-1,Comando Para Matar (1985) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1620.mp4
+#EXTINF:-1,Death Note (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1621.mp4
+#EXTINF:-1,Frontera (2014) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1625.mp4
+#EXTINF:-1,Indiana Jones 3 E A Última Cruzada (1989) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1627.mp4
+#EXTINF:-1,Indiana Jones 4 E O Reino Da Caveira De Cristal (2008) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1628.mp4
+#EXTINF:-1,Indiana Jones 2 : e o Templo da Perdição (1984) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1626.mp4
+#EXTINF:-1,Indiana Jones 1 : E Os Caçadores Da.Arca Perdida (1981) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1642.mp4
+#EXTINF:-1,Jovem demais para Morrer (1990) 720P
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1629.mp4
+#EXTINF:-1,Silverado (1985) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1631.mp4
+#EXTINF:-1,Territorio Restrito (2009) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1632.mp4
+#EXTINF:-1,Um Amável Pão Duro (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1633.mp4
+#EXTINF:-1,Um Dia Sem Mexicanos (2004) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1634.mp4
+#EXTINF:-1,A Noite é Delas (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1614.mp4
+#EXTINF:-1,À Procura Da Felicidade  (2007)  720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1599.mp4
+#EXTINF:-1,A Rede Social (2010) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1613.mp4
+#EXTINF:-1,As Aventuras de Ozzy (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1600.mp4
+#EXTINF:-1,Batman e Arlequina Pancadas e Risadas (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1601.mp4
+#EXTINF:-1,Boyka O Imbatível (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1598.mp4
+#EXTINF:-1,Busca Sem Limites (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1615.mp4
+#EXTINF:-1,Descendentes 2 (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1604.mp4
+#EXTINF:-1,Garota Mimada (2008)  720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1605.mp4
+#EXTINF:-1,O Lobo Atrás da Porta (2013)
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1606.mp4
+#EXTINF:-1,O Terminal  (2004) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1607.mp4
+#EXTINF:-1,Onde Está Segunda (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1608.mp4
+#EXTINF:-1,Tropas Estelares Invasores de Marte (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1611.mp4
+#EXTINF:-1,Z A Cidade Perdida (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1612.mp4
+#EXTINF:-1,LEGO Batman O Filme (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1591.mp4
+#EXTINF:-1,Lucas, Um Intruso no Formigueiro (2006) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1597.mp4
+#EXTINF:-1,No Rastro da Violência (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1595.mp4
+#EXTINF:-1,NU (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1596.mp4
+#EXTINF:-1,Rock Dog No Faro do Sucesso (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1594.mp4
+#EXTINF:-1,The Legend of Ben Hall (2016) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1593.mp4
+#EXTINF:-1,A Autópsia (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1590.mp4
+#EXTINF:-1,O Cara Certo (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1589.mp4
+#EXTINF:-1,Vizinhos Nada Secretos (2017)
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1588.mp4
+#EXTINF:-1,A Ilha do Medo (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1587.mp4
+#EXTINF:-1,A Leoa (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1585.mp4
+#EXTINF:-1,Guardiões da Galáxia Vol.2 (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1584.mp4
+#EXTINF:-1,Mais Forte Que o Mundo - a Historia de Jose Aldo (2016) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1586.mp4
+#EXTINF:-1,Kicks (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1580.mp4
+#EXTINF:-1,O Arquiteto (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1579.mp4
+#EXTINF:-1,O Dia do Atentado (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1581.mp4
+#EXTINF:-1,Atração Violenta (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1573.mp4
+#EXTINF:-1,Crimes na Madrugada (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1574.mp4
+#EXTINF:-1,Nunca Diga Seu Nome (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1575.mp4
+#EXTINF:-1,Real O Plano Por Tras da Historia (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1576.mp4
+#EXTINF:-1,Ben-Hur (2016) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1569.mp4
+#EXTINF:-1,Divertida Mente (2015) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1570.mp4
+#EXTINF:-1,Paixão Obsessiva (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1571.mp4
+#EXTINF:-1,Alien Covenant (2017) 1080p LEGENDADO
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1555.mp4
+#EXTINF:-1,Mate o Rei (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1557.mp4
+#EXTINF:-1,Mulher Maravilha (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1556.mp4
+#EXTINF:-1,Resident evil A Vinganca (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1564.mp4
+#EXTINF:-1,Um Contratempo (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1563.mp4
+#EXTINF:-1,8 Mile - Rua das Ilusões (2002) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1572.mp4
+#EXTINF:-1,Vida Dupla 2017 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1562.mp4
+#EXTINF:-1,Drone (2017)720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1552.mp4
+#EXTINF:-1,O Poderoso Chefinho (2017)720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1551.mp4
+#EXTINF:-1,Okja (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1549.mp4
+#EXTINF:-1,Os Smurfs e a Vila Perdida (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1550.mp4
+#EXTINF:-1,Vingança (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1553.mp4
+#EXTINF:-1,Corra (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1539.mp4
+#EXTINF:-1,Campo Minado (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1545.mp4
+#EXTINF:-1,O Espaço Entre Nós (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1546.mp4
+#EXTINF:-1,O Sinal - Frequeciancia do Medo (2015) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1543.mp4
+#EXTINF:-1,Hop - Rebelde sem Páscoa (2011) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1294.mp4
+#EXTINF:-1,Kong A Ilha da Caveira (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1538.mp4
+#EXTINF:-1,12 Horas para Sobreviver - O Ano Da Eleição
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1446.mp4
+#EXTINF:-1,3 Turco e um bebe
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1445.mp4
+#EXTINF:-1,A Bela & A Fera (2017) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1534.mp4
+#EXTINF:-1,A cabana (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1276.mp4
+#EXTINF:-1,A Caverna Perigo Subterraneo (2017) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1523.mp4
+#EXTINF:-1,A chantagem
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1280.mp4
+#EXTINF:-1,A Chegada
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1447.mp4
+#EXTINF:-1,A Hora do Rush
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1354.mp4
+#EXTINF:-1,A Hora do Rush 2
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1355.mp4
+#EXTINF:-1,A Hora do Rush 3
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1356.mp4
+#EXTINF:-1,A ultima ressaca do Ano
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1283.mp4
+#EXTINF:-1,A Visita
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1413.mp4
+#EXTINF:-1,Adrenalina
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1352.mp4
+#EXTINF:-1,Adrenalina 2
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1353.mp4
+#EXTINF:-1,Advogado do Diabo
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1412.mp4
+#EXTINF:-1,Aladdin
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1448.mp4
+#EXTINF:-1,America Pie
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1349.mp4
+#EXTINF:-1,American Pie 2, A Segunda Vez é Ainda Melhor
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1350.mp4
+#EXTINF:-1,American Pie 3, O Casamento
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1351.mp4
+#EXTINF:-1,Armageddon
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1414.mp4
+#EXTINF:-1,As Loucas Aventuras de James West (1999) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1449.mp4
+#EXTINF:-1,Assassin's creed
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1078.mp4
+#EXTINF:-1,Austrália
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1247.mp4
+#EXTINF:-1,Brilho Eterno de uma Mente Sem Lembranças
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1246.mp4
+#EXTINF:-1,Chamas da Vingança (2004) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1450.mp4
+#EXTINF:-1,Closer (2004)
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1451.mp4
+#EXTINF:-1,Clube da Luta
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1203.mp4
+#EXTINF:-1,Coração de Cavaleiro
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1205.mp4
+#EXTINF:-1,Detona Ralph
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1441.mp4
+#EXTINF:-1,Diario De Uma Paixão (2004) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1453.mp4
+#EXTINF:-1,Enjaulada
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1439.mp4
+#EXTINF:-1,Expresso do Amanhã
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1500.mp4
+#EXTINF:-1,Fechando Negocio (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1461.mp4
+#EXTINF:-1,Forrest Gump O Contador De Historias
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1208.mp4
+#EXTINF:-1,Fragmentado
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1460.mp4
+#EXTINF:-1,Headshot (2017) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1528.mp4
+#EXTINF:-1,Herança de Sangue
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1332.mp4
+#EXTINF:-1,Constantine (2005) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1764.mp4
+#EXTINF:-1,John Wick De Volta Ao Jogo (2014)
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1498.mp4
+#EXTINF:-1,John Wick Um Novo Dia Para Matar (2017)
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1499.mp4
+#EXTINF:-1,Kick-Ass Quebrando Tudo
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1426.mp4
+#EXTINF:-1,Life (2017) 1080p  Legendado
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1525.mp4
+#EXTINF:-1,Logan (2017)
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1298.mp4
+#EXTINF:-1,Moana Um Mar de Aventuras (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1457.mp4
+#EXTINF:-1,Negócios Das Arabias
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1346.mp4
+#EXTINF:-1,Nossos Amantes
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1300.mp4
+#EXTINF:-1,O Corpo (2017) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1524.mp4
+#EXTINF:-1,O Grande Roubo
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1347.mp4
+#EXTINF:-1,O Lar Das Crianças Peculiares
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1345.mp4
+#EXTINF:-1,O Misterioso Caso de Judith Winstead
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1233.mp4
+#EXTINF:-1,O Poder Da Coragem
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1344.mp4
+#EXTINF:-1,O Profissional
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1432.mp4
+#EXTINF:-1,O Uivo
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1343.mp4
+#EXTINF:-1,Os Escolhidos
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1339.mp4
+#EXTINF:-1,Passageiros
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1087.mp4
+#EXTINF:-1,Pequeno Delitos
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1336.mp4
+#EXTINF:-1,Personal Shopper (2017) 1080p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1527.mp4
+#EXTINF:-1,Procurando Dory
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1340.mp4
+#EXTINF:-1,Quatro Vidas de um Cachorro
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1420.mp4
+#EXTINF:-1,Ray
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1433.mp4
+#EXTINF:-1,Se Beber Não Case Parte l
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1434.mp4
+#EXTINF:-1,Se Beber Nao Case Parte ll
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1435.mp4
+#EXTINF:-1,Se Beber Não Case Parte lll
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1436.mp4
+#EXTINF:-1,Seguidores Macabros
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1338.mp4
+#EXTINF:-1,Sete Minutos Depois da Meia Noite (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1463.mp4
+#EXTINF:-1,Sete Vidas (2008) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1465.mp4
+#EXTINF:-1,Spirit o corcel indomavel
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1440.mp4
+#EXTINF:-1,Truque De Mestre
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1341.mp4
+#EXTINF:-1,Truque De Mestre 2 (2016)
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1537.mp4
+#EXTINF:-1,Um Amor A Altura
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1342.mp4
+#EXTINF:-1,Uma Historia de Vingança (2017) 720p
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1459.mp4
+#EXTINF:-1,Uma Noite De Crime
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1337.mp4
+#EXTINF:-1,Uma Saída de Mestre (2003)
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/1437.mp4
+#EXTINF:-1,Uma Agente Muito Louca (2017) 720p
+http://185.22.173.118/V2/Uma.Agente.Muito.Louca.2017.720p.BluRay.x264.DUBLADO-WWW.BLUDV.COM.mp4
+#EXTINF:-1,A Espera de um Milagre
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2022.mp4
+#EXTINF:-1,A Família Buscapé
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2017.mp4
+#EXTINF:-1,A Historia Sem Fim
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2010.mp4
+#EXTINF:-1,A Ilha da Garganta Cortada
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2005.mp4
+#EXTINF:-1,A Múmia (1999)
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2013.mp4
+#EXTINF:-1,Abracadabra
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2014.mp4
+#EXTINF:-1,As Loucas Aventuras de Elvira
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2008.mp4
+#EXTINF:-1,Blade - O Caçador De Vampiros
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2015.mp4
+#EXTINF:-1,Blade II O Caçador de Vampiros
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2016.mp4
+#EXTINF:-1,Blade: Trinity
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2020.mp4
+#EXTINF:-1,Clube dos Cinco
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2003.mp4
+#EXTINF:-1,Conan, o Bárbaro
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2021.mp4
+#EXTINF:-1,De Volta Para o Futuro
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2036.mp4
+#EXTINF:-1,De Volta para o Futuro 2
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2037.mp4
+#EXTINF:-1,De Volta Para o Futuro 3
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2038.mp4
+#EXTINF:-1,Double Dragon
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2019.mp4
+#EXTINF:-1,Edward Mãos de Tesoura
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2018.mp4
+#EXTINF:-1,Elvira
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2007.mp4
+#EXTINF:-1,Esqueceram de Mim
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2034.mp4
+#EXTINF:-1,Esqueceram De Mim 2
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2035.mp4
+#EXTINF:-1,Ghost - Do Outro Lado da Vida
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2033.mp4
+#EXTINF:-1,Godzilla (1998)
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2011.mp4
+#EXTINF:-1,La Bamba
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2032.mp4
+#EXTINF:-1,Meu Pequeno Ladrão
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2012.mp4
+#EXTINF:-1,Michael Jackson
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2009.mp4
+#EXTINF:-1,O Estranho Mundo de Jack
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2031.mp4
+#EXTINF:-1,O Ilusionista
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2030.mp4
+#EXTINF:-1,O Retorno da Mumia
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2029.mp4
+#EXTINF:-1,O Sexto Sentido
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2006.mp4
+#EXTINF:-1,Pulp Fiction
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2028.mp4
+#EXTINF:-1,Querida Estiquei o Bebe
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2004.mp4
+#EXTINF:-1,Spawn - O Soldado do Inferno
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2027.mp4
+#EXTINF:-1,Twister
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2026.mp4
+#EXTINF:-1,Uma Baba Quase Perfeita
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2025.mp4
+#EXTINF:-1,Uma Linda Mulher
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2024.mp4
+#EXTINF:-1,Uma Mente Brilhante
+http://painel.tvdigitalsbl.net:8081/movie/Carlosiptv/cbriptv/2023.mp4
+#EXTINF:-1,OS SIMPSONS
+http://painel.tvdigitalsbl.net:8081/live/Carlosiptv/cbriptv/2045.ts
